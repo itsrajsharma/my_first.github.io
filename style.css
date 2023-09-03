@@ -1,0 +1,17 @@
+body{
+    background-color: #0c0d17;
+}  
+
+hr
+{
+    /*background-color: aquamarine*/
+    height: 0px;
+    width: 10%;
+    border-style: none;
+    border-top-style: dotted ;
+    border-color:#CBD6E2;
+    border-width: 5px;
+}
+h3 {
+    color:aquamarine;
+}
